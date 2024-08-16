@@ -1,0 +1,8 @@
+venv*
+dist/*
+**/build
+**/target/**/*
+**/__pycache__
+py/src/**/*.c
+py/src/**/*.so
+py/src/**/*.html
